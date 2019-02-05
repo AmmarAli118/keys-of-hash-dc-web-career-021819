@@ -1,8 +1,8 @@
 class Hash
   
-  def keys_of(arguments, *other_arguements)
+  def keys_of(location, *other_arguements)
     
-    a = *arguments
+    a = *location
     
     
   end
