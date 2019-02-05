@@ -1,6 +1,6 @@
 class Hash
   
-  def keys_of(location, *other_arguements)
+  def keys_of(*args)
     
     a = *location
     
